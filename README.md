@@ -12,7 +12,7 @@ Static website generated for **Cupway**.
 
 ## Generation metadata
 
-- Template: Premium Landing
+- Template: Minimal Modern
 - AI model used: Gemini Flash
 - Public site URL: https://semahmrad.github.io/lead-radar-cupway-b3220f09/
 

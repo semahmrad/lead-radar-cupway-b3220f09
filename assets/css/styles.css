@@ -1,6 +1,6 @@
 :root {
-  color-scheme: dark;
-  font-family: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
+  color-scheme: light;
+  font-family: 'DM Sans', 'Segoe UI', sans-serif;
   background: var(--color-bg);
   color: var(--color-text);
   --site-max-width: 1460px;
@@ -31,7 +31,7 @@ body {
     radial-gradient(circle at 100% 0%, color-mix(in srgb, var(--color-primary) 16%, transparent), transparent 32%),
     linear-gradient(180deg, color-mix(in srgb, var(--color-bg) 94%, black 1%), var(--color-bg));
   color: var(--color-text);
-  font-family: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
+  font-family: 'DM Sans', 'Segoe UI', sans-serif;
   text-rendering: optimizeLegibility;
 }
 
@@ -190,7 +190,7 @@ textarea {
 
 .welcome-splash__content h2 {
   margin: 0;
-  font: 800 clamp(2.6rem, 2rem + 2.8vw, 5rem)/0.9 'Playfair Display', 'Segoe UI', sans-serif;
+  font: 800 clamp(2.6rem, 2rem + 2.8vw, 5rem)/0.9 'Fraunces', 'Georgia', serif;
   letter-spacing: -0.05em;
 }
 
@@ -271,7 +271,7 @@ body[data-splash='closed'] .welcome-splash {
 }
 
 .brand__text strong {
-  font: 800 clamp(0.95rem, 0.82rem + 0.28vw, 1.12rem)/1.1 'Playfair Display', 'Segoe UI', sans-serif;
+  font: 800 clamp(0.95rem, 0.82rem + 0.28vw, 1.12rem)/1.1 'Fraunces', 'Georgia', serif;
   letter-spacing: 0.11em;
   text-transform: uppercase;
 }
@@ -547,7 +547,7 @@ summary,
 .hero-fact strong,
 .review-panel__score strong {
   margin: 0;
-  font-family: 'Playfair Display', 'Segoe UI', sans-serif;
+  font-family: 'Fraunces', 'Georgia', serif;
 }
 
 h1 {
@@ -885,7 +885,7 @@ p {
   top: 24px;
   left: 26px;
   color: color-mix(in srgb, var(--color-accent) 14%, transparent);
-  font: 800 clamp(4.5rem, 8vw, 7.5rem)/0.8 'Playfair Display', 'Segoe UI', sans-serif;
+  font: 800 clamp(4.5rem, 8vw, 7.5rem)/0.8 'Fraunces', 'Georgia', serif;
   letter-spacing: -0.06em;
   pointer-events: none;
 }
@@ -1171,7 +1171,7 @@ p {
   top: 12px;
   right: 20px;
   color: color-mix(in srgb, var(--color-accent) 26%, transparent);
-  font-family: 'Playfair Display', 'Segoe UI', sans-serif;
+  font-family: 'Fraunces', 'Georgia', serif;
   font-size: 4rem;
   line-height: 1;
 }
