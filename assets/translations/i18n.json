@@ -1,0 +1,466 @@
+{
+  "defaultLanguage": "fr",
+  "languages": [
+    "fr",
+    "en",
+    "ar"
+  ],
+  "seo": {
+    "title": "Cupway Café Tunis | Café de Spécialité & Espace Convivial",
+    "description": "Découvrez Cupway à Tunis. Profitez de nos cafés de spécialité, douceurs artisanales et d'un espace moderne idéal pour travailler ou se détendre. Contactez-nous sur WhatsApp !",
+    "keywords": [
+      "cafe tunis",
+      "specialty coffee tunisie",
+      "menzah cafe",
+      "espace coworking tunis",
+      "petit dejeuner tunis",
+      "cupway"
+    ]
+  },
+  "content": {
+    "fr": {
+      "metaTitle": "Cupway Café Tunis | Café de Spécialité & Espace Convivial",
+      "metaDescription": "Découvrez Cupway à Tunis. Profitez de nos cafés de spécialité, douceurs artisanales et d'un espace moderne idéal pour travailler ou se détendre. Contactez-nous sur WhatsApp !",
+      "nav": {
+        "about": "A propos",
+        "services": "Services",
+        "gallery": "Galerie",
+        "reviews": "Avis",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Café de Spécialité & Douceurs",
+        "title": "Cupway Café",
+        "subtitle": "Votre pause gourmande exclusive à Tunis, Menzah.",
+        "description": "Découvrez un espace chaleureux pensé pour les passionnés de café et de moments partagés. Savourez nos sélections artisanales dans une ambiance moderne et inspirante.",
+        "primaryCta": "Contacter sur WhatsApp",
+        "secondaryCta": "Voir les services"
+      },
+      "about": {
+        "eyebrow": "A propos",
+        "title": "L'Art du Café, la Passion du Partage",
+        "body": "Cupway réinvente l'expérience du café à Tunis. Nous sélectionnons avec soin les meilleurs grains pour vous offrir des boissons d'exception, accompagnées de douceurs artisanales, le tout au sein d'un cadre contemporain et accueillant conçu pour vos moments de détente ou de travail."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Nos Services Premium",
+        "intro": "Une offre soignée pour sublimer chaque instant de votre journée.",
+        "items": [
+          {
+            "title": "Café et boissons chaudes",
+            "description": "Des espressos parfaits et des lattes onctueux préparés par nos baristas passionnés."
+          },
+          {
+            "title": "Snacking et douceurs",
+            "description": "Une sélection raffinée de viennoiseries et d'encas gourmands pour accompagner vos pauses."
+          },
+          {
+            "title": "Pause petit-déjeuner",
+            "description": "Formules matinales complètes et équilibrées pour bien commencer la journée."
+          },
+          {
+            "title": "Espace convivial",
+            "description": "Un cadre moderne, lumineux et idéal pour travailler, lire ou se retrouver entre amis."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Points forts",
+        "title": "Pourquoi Choisir Cupway",
+        "items": [
+          {
+            "title": "Adresse facile a retrouver",
+            "description": "Toutes les informations utiles pour rejoindre Cupway sont reunies autour de votre zone."
+          },
+          {
+            "title": "Contact direct",
+            "description": "Telephone, carte, horaires et WhatsApp sont accessibles sans effort depuis desktop comme depuis mobile."
+          },
+          {
+            "title": "Presentation plus soignee",
+            "description": "Une identite visuelle plus premium met mieux en valeur le lieu, l ambiance et la qualite de service."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Galerie",
+        "title": "Notre Univers en Images",
+        "intro": "Plongez dans l'atmosphère unique de notre café.",
+        "captions": [
+          "L'art du barista à chaque tasse",
+          "Notre sélection de douceurs fraîches",
+          "Un espace moderne et chaleureux",
+          "Votre table idéale pour la matinée"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "Vos Avis sur Cupway",
+        "summary": "Reconnu par notre communauté locale pour l'excellence de notre café et notre accueil attentionné."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Contactez-nous",
+        "intro": "Une question ou une envie pressante ? Notre équipe est à votre entière disposition."
+      },
+      "form": {
+        "title": "Envoyez-nous un Message",
+        "intro": "Remplissez ce formulaire pour nous écrire directement sur WhatsApp."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Questions Fréquentes",
+        "items": [
+          {
+            "question": "Où se trouve le café Cupway ?",
+            "answer": "Nous sommes situés dans un quartier central et dynamique de Tunis, facilement accessible via notre itinéraire Google Maps."
+          },
+          {
+            "question": "Comment prendre contact rapidement ?",
+            "answer": "Vous pouvez nous appeler directement au +216 52 497 740 ou nous écrire en un clic sur WhatsApp."
+          },
+          {
+            "question": "Proposez-vous des options pour le petit-déjeuner ?",
+            "answer": "Oui, nous proposons des formules petit-déjeuner complètes et une variété de viennoiseries fraîches chaque matin."
+          },
+          {
+            "question": "Est-il possible de travailler sur place ?",
+            "answer": "Absolument. Notre espace convivial est parfaitement aménagé pour vous accueillir lors de vos sessions de travail ou réunions informelles."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "Cupway - Votre rendez-vous café incontournable à Tunis."
+      },
+      "ui": {
+        "navAbout": "A propos",
+        "navServices": "Services",
+        "navGallery": "Galerie",
+        "navReviews": "Avis",
+        "navContact": "Contact",
+        "languageLabel": "Langue",
+        "addressLabel": "Adresse",
+        "phoneLabel": "Telephone",
+        "emailLabel": "Email",
+        "hoursLabel": "Horaires",
+        "ratingLabel": "Note",
+        "openMap": "Ouvrir la carte",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Nom",
+        "formPhoneLabel": "Telephone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Envoyer sur WhatsApp",
+        "formNamePlaceholder": "Votre nom",
+        "formPhonePlaceholder": "Votre numero",
+        "formMessagePlaceholder": "Bonjour, je souhaite obtenir plus d informations sur vos services.",
+        "noHours": "Horaires communiques sur demande",
+        "galleryBadge": "Photos",
+        "featureBadge": "Atouts",
+        "reviewBadge": "Confiance",
+        "contactBadge": "Disponible",
+        "faqBadge": "Questions",
+        "viewOnMaps": "Voir sur Google Maps",
+        "viewReviews": "Voir les avis Google",
+        "writeReview": "Laisser un avis",
+        "callNow": "Appeler maintenant",
+        "sendOnWhatsapp": "Demarrer sur WhatsApp"
+      }
+    },
+    "en": {
+      "metaTitle": "Cupway Café Tunis | Café de Spécialité & Espace Convivial",
+      "metaDescription": "Découvrez Cupway à Tunis. Profitez de nos cafés de spécialité, douceurs artisanales et d'un espace moderne idéal pour travailler ou se détendre. Contactez-nous sur WhatsApp !",
+      "nav": {
+        "about": "About",
+        "services": "Services",
+        "gallery": "Gallery",
+        "reviews": "Reviews",
+        "contact": "Contact"
+      },
+      "hero": {
+        "eyebrow": "Specialty Coffee & Sweet Treats",
+        "title": "Cupway Café",
+        "subtitle": "Your exclusive coffee break in Tunis, Menzah.",
+        "description": "Discover a welcoming space designed for coffee enthusiasts and shared moments. Enjoy our artisanal selections in a modern and inspiring atmosphere.",
+        "primaryCta": "Contact on WhatsApp",
+        "secondaryCta": "View services"
+      },
+      "about": {
+        "eyebrow": "About",
+        "title": "The Art of Coffee, The Passion for Sharing",
+        "body": "Cupway reimagines the coffee experience in Tunis. We carefully select the finest beans to craft exceptional beverages, paired with artisanal pastries, all within a contemporary and welcoming setting tailored for relaxation or productivity."
+      },
+      "services": {
+        "eyebrow": "Services",
+        "title": "Our Premium Services",
+        "intro": "A curated selection to elevate every moment of your day.",
+        "items": [
+          {
+            "title": "Coffee and Hot Drinks",
+            "description": "Flawless espressos and creamy lattes crafted by our passionate baristas."
+          },
+          {
+            "title": "Snacks and Treats",
+            "description": "A refined choice of pastries and gourmet snacks to perfectly complement your break."
+          },
+          {
+            "title": "Breakfast Break",
+            "description": "Complete and balanced morning menus to kickstart your day beautifully."
+          },
+          {
+            "title": "Convivial Space",
+            "description": "A modern, bright atmosphere ideal for working, reading, or meeting friends."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "Highlights",
+        "title": "Why Choose Cupway",
+        "items": [
+          {
+            "title": "Easy to find",
+            "description": "Visitors can quickly locate Cupway around your area with the key details presented clearly."
+          },
+          {
+            "title": "Direct contact",
+            "description": "Phone, map, hours, and WhatsApp work together to make every enquiry faster and simpler."
+          },
+          {
+            "title": "Stronger first impression",
+            "description": "A more premium presentation makes the place feel warmer, more credible, and more memorable."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "Gallery",
+        "title": "Our World in Pictures",
+        "intro": "Immerse yourself in the unique atmosphere of our café.",
+        "captions": [
+          "Barista artistry in every single cup",
+          "Our selection of freshly baked treats",
+          "A modern and warm interior design",
+          "Your perfect table for the morning"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "Reputation",
+        "title": "Your Reviews on Cupway",
+        "summary": "Highly praised by our local community for excellent coffee and attentive service."
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Contact Us",
+        "intro": "Have a question or a craving? Our dedicated team is at your service."
+      },
+      "form": {
+        "title": "Send Us a Message",
+        "intro": "Fill out this form to message us directly via WhatsApp."
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Frequently Asked Questions",
+        "items": [
+          {
+            "question": "Where is Cupway café located?",
+            "answer": "We are located in a central and vibrant district of Tunis, easily reachable using our Google Maps directions."
+          },
+          {
+            "question": "How can I contact you quickly?",
+            "answer": "You can call us directly at +216 52 497 740 or message us instantly on WhatsApp."
+          },
+          {
+            "question": "Do you offer breakfast options?",
+            "answer": "Yes, we serve complete breakfast menus along with a variety of fresh pastries every morning."
+          },
+          {
+            "question": "Is the venue suitable for working?",
+            "answer": "Absolutely. Our welcoming space is fully equipped to host you for remote work sessions or casual meetings."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "Cupway - Your essential coffee destination in Tunis."
+      },
+      "ui": {
+        "navAbout": "About",
+        "navServices": "Services",
+        "navGallery": "Gallery",
+        "navReviews": "Reviews",
+        "navContact": "Contact",
+        "languageLabel": "Language",
+        "addressLabel": "Address",
+        "phoneLabel": "Phone",
+        "emailLabel": "Email",
+        "hoursLabel": "Hours",
+        "ratingLabel": "Rating",
+        "openMap": "Open map",
+        "whatsAppLabel": "WhatsApp",
+        "formNameLabel": "Name",
+        "formPhoneLabel": "Phone",
+        "formMessageLabel": "Message",
+        "formSubmitLabel": "Send on WhatsApp",
+        "formNamePlaceholder": "Your name",
+        "formPhonePlaceholder": "Your phone number",
+        "formMessagePlaceholder": "Hello, I would like more information about your services.",
+        "noHours": "Hours available on request",
+        "galleryBadge": "Photos",
+        "featureBadge": "Highlights",
+        "reviewBadge": "Trust",
+        "contactBadge": "Available",
+        "faqBadge": "FAQ",
+        "viewOnMaps": "View on Google Maps",
+        "viewReviews": "Read Google reviews",
+        "writeReview": "Leave a review",
+        "callNow": "Call now",
+        "sendOnWhatsapp": "Start on WhatsApp"
+      }
+    },
+    "ar": {
+      "metaTitle": "Cupway Café Tunis | Café de Spécialité & Espace Convivial",
+      "metaDescription": "Découvrez Cupway à Tunis. Profitez de nos cafés de spécialité, douceurs artisanales et d'un espace moderne idéal pour travailler ou se détendre. Contactez-nous sur WhatsApp !",
+      "nav": {
+        "about": "من نحن",
+        "services": "الخدمات",
+        "gallery": "المعرض",
+        "reviews": "التقييم",
+        "contact": "تواصل"
+      },
+      "hero": {
+        "eyebrow": "قهوة مختصة وحلويات فاخرة",
+        "title": "كوبواي كافيه",
+        "subtitle": "ملاذك الحصري للاستمتاع بالقهوة في تونس، المنزه.",
+        "description": "اكتشف مساحة دافئة مصممة لعشاق القهوة واللحظات المشتركة. استمتع بتشكيلتنا الحرفية في أجواء عصرية وملهمة.",
+        "primaryCta": "تواصل عبر واتساب",
+        "secondaryCta": "عرض الخدمات"
+      },
+      "about": {
+        "eyebrow": "من نحن",
+        "title": "فن القهوة، وشغف المشاركة",
+        "body": "يعيد كوبواي ابتكار تجربة القهوة في تونس. نحن نختار أجود الحبوب بعناية لنقدم لك مشروبات استثنائية، مصحوبة بحلويات حرفية، كل ذلك في بيئة معاصرة ومرحبة مصممة للاسترخاء أو العمل."
+      },
+      "services": {
+        "eyebrow": "الخدمات",
+        "title": "خدماتنا المتميزة",
+        "intro": "عروض منتقاة بعناية لتضفي تميزاً على كل لحظة من يومك.",
+        "items": [
+          {
+            "title": "القهوة والمشروبات الساخنة",
+            "description": "إسبريسو مثالي ولاتيه غني يحضره لك خبراء القهوة بشغف كبير."
+          },
+          {
+            "title": "المأكولات الخفيفة والحلويات",
+            "description": "تشكيلة راقية من المخبوزات والوجبات الخفيفة لترافق أوقات راحتك."
+          },
+          {
+            "title": "وجبات الإفطار",
+            "description": "قوائم إفطار صباحية متكاملة ومتوازنة لبداية يوم مليئة بالطاقة."
+          },
+          {
+            "title": "مساحة مريحة للجميع",
+            "description": "أجواء عصرية ومضيئة مثالية للعمل، القراءة، أو لقاء الأصدقاء."
+          }
+        ]
+      },
+      "highlights": {
+        "eyebrow": "نقاط القوة",
+        "title": "لماذا تختار كوبواي",
+        "items": [
+          {
+            "title": "ظهور محلي واضح",
+            "description": "صفحة واضحة تبرز منطقتك وتسهل الوصول إلى النشاط."
+          },
+          {
+            "title": "تواصل سريع من الهاتف",
+            "description": "الهاتف والخريطة وواتساب في مكان واحد لتقليل أي تعقيد."
+          },
+          {
+            "title": "صورة أكثر احترافية",
+            "description": "عرض منظم وحديث يساعد على بناء الثقة قبل أول اتصال."
+          }
+        ]
+      },
+      "gallery": {
+        "eyebrow": "المعرض",
+        "title": "عالمنا في صور",
+        "intro": "انغمس في الأجواء الفريدة لمقهانا.",
+        "captions": [
+          "إبداع باريستا في كل كوب",
+          "تشكيلتنا اليومية من الحلويات الطازجة",
+          "تصميم داخلي عصري ودافئ",
+          "طاولتك المثالية لبداية الصباح"
+        ]
+      },
+      "reviews": {
+        "eyebrow": "السمعة",
+        "title": "آراء عملائنا في كوبواي",
+        "summary": "حائز على ثقة مجتمعنا المحلي بفضل جودة قهوتنا والخدمة الراقية التي نقدمها."
+      },
+      "contact": {
+        "eyebrow": "تواصل",
+        "title": "اتصل بنا",
+        "intro": "هل لديك استفسار أو ترغب في زيارتنا؟ فريقنا المتفاني في خدمتكم دائماً."
+      },
+      "form": {
+        "title": "أرسل لنا رسالة",
+        "intro": "املأ هذا النموذج للتواصل معنا مباشرة عبر تطبيق الواتساب."
+      },
+      "faq": {
+        "eyebrow": "الأسئلة الشائعة",
+        "title": "الأسئلة الشائعة",
+        "items": [
+          {
+            "question": "أين يقع مقهى كوبواي؟",
+            "answer": "نحن نقع في منطقة حيوية ومركزية في تونس، ويمكنك الوصول إلينا بسهولة عبر خرائط جوجل."
+          },
+          {
+            "question": "كيف يمكنني التواصل معكم بسرعة؟",
+            "answer": "يمكنك الاتصال بنا مباشرة على الرقم 740 497 52 216+ أو مراسلتنا بضغطة زر عبر الواتساب."
+          },
+          {
+            "question": "هل تقدمون خيارات لوجبات الإفطار؟",
+            "answer": "نعم، نقدم قوائم إفطار متكاملة ومجموعة متنوعة من المخبوزات الطازجة كل صباح."
+          },
+          {
+            "question": "هل المكان مناسب للعمل أو الدراسة؟",
+            "answer": "بالتأكيد. تم تجهيز مساحتنا المريحة لتستقبلكم بجلسات عمل هادئة أو لقاءات غير رسمية."
+          }
+        ]
+      },
+      "footer": {
+        "tagline": "كوبواي - وجهتك المفضلة للقهوة في تونس."
+      },
+      "ui": {
+        "navAbout": "من نحن",
+        "navServices": "الخدمات",
+        "navGallery": "المعرض",
+        "navReviews": "التقييم",
+        "navContact": "تواصل",
+        "languageLabel": "اللغة",
+        "addressLabel": "العنوان",
+        "phoneLabel": "الهاتف",
+        "emailLabel": "البريد",
+        "hoursLabel": "الأوقات",
+        "ratingLabel": "التقييم",
+        "openMap": "فتح الخريطة",
+        "whatsAppLabel": "واتساب",
+        "formNameLabel": "الاسم",
+        "formPhoneLabel": "الهاتف",
+        "formMessageLabel": "الرسالة",
+        "formSubmitLabel": "إرسال عبر واتساب",
+        "formNamePlaceholder": "اسمك",
+        "formPhonePlaceholder": "رقم الهاتف",
+        "formMessagePlaceholder": "مرحباً، أريد معرفة المزيد عن خدماتكم.",
+        "noHours": "ساعات العمل متاحة عند الطلب",
+        "galleryBadge": "صور",
+        "featureBadge": "المزايا",
+        "reviewBadge": "ثقة",
+        "contactBadge": "متاح",
+        "faqBadge": "الأسئلة",
+        "viewOnMaps": "عرض على خرائط Google",
+        "viewReviews": "عرض تقييمات Google",
+        "writeReview": "إضافة تقييم",
+        "callNow": "اتصل الآن",
+        "sendOnWhatsapp": "ابدأ عبر واتساب"
+      }
+    }
+  }
+}

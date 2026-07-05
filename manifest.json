@@ -1,0 +1,17 @@
+{
+  "name": "Cupway",
+  "short_name": "Cupway",
+  "description": "Cupway - Cafe",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#4b74ff",
+  "icons": [
+    {
+      "src": "assets/icons/logo-mark.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
